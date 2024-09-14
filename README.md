@@ -19,7 +19,7 @@ This repository provides instructions to download videos from YouTube using Pyth
 3. Install dependencies:
 
     ```bash
-    pip install pytube
+    pip install pytubefix
     ```
 
 4. Create a directory for downloads:
